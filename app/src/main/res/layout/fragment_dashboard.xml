@@ -34,7 +34,7 @@
                 android:paddingLeft="140dp"
                 android:paddingTop="5dp"
                 android:textStyle="italic"
-                android:text="Hallo"
+                android:text="bismillah"
                 android:textSize="30dp" />
 
         </LinearLayout>
