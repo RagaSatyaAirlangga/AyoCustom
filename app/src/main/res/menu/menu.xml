@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ip310.image.MainActivity">
+
+    <item
+        android:id="@+id/searh"
+        android:orderInCategory="100"
+        android:title="@string/app_name"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/keranjang"
+        android:orderInCategory="100"
+        android:title="@string/app_name"
+        android:icon="@drawable/ic_shopping_cart_black_30dp"
+        app:showAsAction="always" />
+
+
+</menu>
